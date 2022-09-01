@@ -1,0 +1,2 @@
+grpcPort: :8080
+restPort: :8090
