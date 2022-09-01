@@ -19,5 +19,3 @@ func (s *Server) GetRusProfileData(ctx context.Context, req *api.RpRequest) (*ap
 		Kpp:         Data.Kpp,
 	}, err
 }
-
-//func (s *Server) mustEmbedUnimplementedRusProfileServer() {}
